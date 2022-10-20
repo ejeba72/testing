@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing practice",
+  "main": "sum.js",
+  "repository": "git@github.com:ejeba72/testing.git",
+  "author": "Emmanuel Eni <eejeba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
